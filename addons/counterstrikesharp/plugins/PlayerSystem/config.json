@@ -1,0 +1,8 @@
+{
+  "DbHost": "host",
+  "DbUser": "user",
+  "DbPassword": "pass",
+  "DbName": "DbName",
+  "DbPort": "3306",
+  "ServerID": 1
+}

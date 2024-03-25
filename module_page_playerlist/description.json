@@ -1,0 +1,24 @@
+{
+    "title": "LR WEB - Список игроков",
+    "author": "nomixe",
+    "page": "srvPlayers",
+    "version": "0.1",
+    "required": {
+        "core": "0.2",
+        "php": "5.4"
+    },
+    "setting": {
+        "status": 1,
+        "type": 1,
+        "available_types": "1",
+        "interface": 1,
+        "interface_adjacent": "afternavbar",
+        "translation": 0,
+        "data": 1,
+        "data_always": 0,
+        "css": 1,
+        "js": 1,
+        "cache_enable": 1,
+        "cache_time": 86400
+    }
+}
